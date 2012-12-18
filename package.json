@@ -1,14 +1,14 @@
 {
   "name": "winston-mongodb",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "A MongoDB transport for winston",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
   "contributors": [
-    { "name": "Kendrick Taylor", "email": "sktayloriii@gmail.com", "email": "yosefd@microsoft.com" }
+    { "name": "Kendrick Taylor", "email": "sktayloriii@gmail.com", "email": "yosefd@microsoft.com", "email": "aoj@n13.cz" }
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/indexzero/winston-mongodb.git"
+    "url": "git://github.com/AoJ/winston-mongodb.git"
   },
   "keywords": ["logging", "sysadmin", "tools", "winston", "mongodb"],
   "dependencies": {
